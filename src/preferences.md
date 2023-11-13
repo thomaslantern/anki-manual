@@ -86,7 +86,7 @@ as a 30 minute study session) into smaller blocks. If you set the timebox time
 limit to a non-zero number of minutes, Anki will periodically show you how many
 cards you’ve managed to study during the prescribed time limit.
 
-**Mix new cards and reviews**:
+**Mix new cards and reviews**:\
 Only shown when the v1/v2 schedulers are enabled. This drop-down box controls when
 new cards are shown: either mixed with, before, or after all reviews.
 
